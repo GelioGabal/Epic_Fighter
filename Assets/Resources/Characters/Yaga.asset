@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6156e5bc858f69240be3afd58201ba0e, type: 3}
+  m_Name: Yaga
+  m_EditorClassIdentifier: 
+  Name: "\u0411\u0430\u0431\u0430 \u044F\u0433\u0430"
+  prefab: {fileID: 2057604324047841907, guid: 13206c31317e7d449a629de763a8b991, type: 3}
+  health: 100
+  basicDamage: 5
+  spechialDamage: 5
+  ultDamage: 5
+  Icon: {fileID: 9004868193778973664, guid: 9f74be525f4447148a20dc54596ae942, type: 3}
+  stunTime: 4
